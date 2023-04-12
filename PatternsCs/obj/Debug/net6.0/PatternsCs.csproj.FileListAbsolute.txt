@@ -1,0 +1,15 @@
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.csproj.AssemblyReference.cache
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.AssemblyInfoInputs.cache
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.AssemblyInfo.cs
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.csproj.CoreCompileInputs.cache
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\bin\Debug\net6.0\PatternsCs.exe
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\bin\Debug\net6.0\PatternsCs.deps.json
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\bin\Debug\net6.0\PatternsCs.runtimeconfig.json
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\bin\Debug\net6.0\PatternsCs.dll
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\bin\Debug\net6.0\PatternsCs.pdb
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.dll
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\refint\PatternsCs.dll
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.pdb
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\PatternsCs.genruntimeconfig.cache
+C:\Users\newac\source\repos\PatternsCs\PatternsCs\obj\Debug\net6.0\ref\PatternsCs.dll
