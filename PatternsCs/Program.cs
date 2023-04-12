@@ -51,8 +51,9 @@ while (isOpen)
 	}
 
 	Console.SetCursorPosition(userX, userY);
-
+	Console.BackgroundColor = ConsoleColor.Blue;
 	Console.Write("U");
+	Console.ResetColor();
 
 	ConsoleKeyInfo k = Console.ReadKey();
 	if(k.Key == ConsoleKey.UpArrow && userY>0) 

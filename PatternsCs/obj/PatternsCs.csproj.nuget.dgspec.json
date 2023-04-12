@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\newac\\source\\repos\\PatternsCs\\PatternsCs\\PatternsCs.csproj": {}
+    "C:\\Users\\newac\\OneDrive\\Desktop\\cloneRepos\\PatternsCs\\PatternsCs\\PatternsCs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\newac\\source\\repos\\PatternsCs\\PatternsCs\\PatternsCs.csproj": {
+    "C:\\Users\\newac\\OneDrive\\Desktop\\cloneRepos\\PatternsCs\\PatternsCs\\PatternsCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\newac\\source\\repos\\PatternsCs\\PatternsCs\\PatternsCs.csproj",
+        "projectUniqueName": "C:\\Users\\newac\\OneDrive\\Desktop\\cloneRepos\\PatternsCs\\PatternsCs\\PatternsCs.csproj",
         "projectName": "PatternsCs",
-        "projectPath": "C:\\Users\\newac\\source\\repos\\PatternsCs\\PatternsCs\\PatternsCs.csproj",
+        "projectPath": "C:\\Users\\newac\\OneDrive\\Desktop\\cloneRepos\\PatternsCs\\PatternsCs\\PatternsCs.csproj",
         "packagesPath": "C:\\Users\\newac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\newac\\source\\repos\\PatternsCs\\PatternsCs\\obj\\",
+        "outputPath": "C:\\Users\\newac\\OneDrive\\Desktop\\cloneRepos\\PatternsCs\\PatternsCs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\newac\\AppData\\Roaming\\NuGet\\NuGet.Config",
